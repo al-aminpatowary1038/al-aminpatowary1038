@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=al-aminpatowary1038" alt="al-aminpatowary1038" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ariyanalamin10" target="blank"><img src="https://img.shields.io/twitter/follow/ariyanalamin10?logo=twitter&style=for-the-badge" alt="ariyanalamin10" /></a> </p>
 
 - 🔭 I’m currently working on **Web Application Project based on Html, CSS, Java Script, PHP and Laravel**
 
@@ -15,8 +15,14 @@
 
 - 📫 How to reach me **ariyanalamin1038@gmail.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/al-aminpatowary1038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="al-aminpatowary1038" height="30" width="40" /></a>
+<a href="https://twitter.com/ariyanalamin10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ariyanalamin10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-al-amin-patowary-878a64346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-al-amin-patowary-878a64346" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/ariyan1038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ariyan1038" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/65081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="65081" height="30" width="40" /></a>
